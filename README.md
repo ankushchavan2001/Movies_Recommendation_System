@@ -16,6 +16,8 @@ Developed an interactive user interface using Streamlit, allowing users to input
 Conducted evaluation and optimization of the recommendation system, achieving high accuracy and user satisfaction.
 Deployed the system, making personalized movie recommendations accessible to users through a web interface.
 
+LINK OF STREAMLIT WEBAPP - http://localhost:8501/
+
 Keywords:
 Machine Learning, Recommendation System, TMDB Dataset, Python, Pandas, NumPy, Scikit-learn, Streamlit, Data Preprocessing, Content-Based Filtering, Collaborative Filtering, Evaluation Metrics, Deployment, User Interface.
 
